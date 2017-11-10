@@ -13,8 +13,8 @@ AutoSwitch	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setPin      KEYWORD2
-setAutoOff  KEYWORD2
+setPin	KEYWORD2
+setAutoOff	KEYWORD2
 getState	KEYWORD2
 
 #######################################
